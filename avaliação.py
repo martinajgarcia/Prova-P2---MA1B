@@ -31,4 +31,4 @@ for m in range (0, 4):
                    nota_ep = float(input('nota do episódio:'))
                    nota_ep =+ nota_ep
                    nota_média = (nota_ep/n_ep)
-    print(seriado, ':', nota_media)
+    print(seriado, ':', nota_média)
