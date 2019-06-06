@@ -27,7 +27,7 @@ nota_ep = 0
 for m in range (0, 4):
     seriado = str(input('seriado:'))
     n_ep = int(input('número de episódios:')
-               for n in range (0, n_ep)
+               for n in range (0, n_ep):
                    nota_ep = float(input('nota do episódio:'))
                    nota_ep =+ nota_ep
                    nota_média = (nota_ep/n_ep)
